@@ -52,6 +52,7 @@ SilenceFlagsTest::SilenceFlagsTest (ITestPlugProvider* plugProvider, ProcessSamp
 //------------------------------------------------------------------------
 bool PLUGIN_API SilenceFlagsTest::run (ITestResult* testResult)
 {
+
 	if (!vstPlug || !testResult || !audioEffect)
 		return false;
 
