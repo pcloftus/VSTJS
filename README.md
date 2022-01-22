@@ -4,6 +4,7 @@ VST_SDK with embedded V8
 
 ![VST License image](https://developer.steinberg.help/download/thumbnails/9797941/VST_Compatible_Logo_Steinberg_with_TM.png?version=1&modificationDate=1589265818000&api=v2)
 
+## In Action
 ![Showcase GIF](https://github.com/pcloftus/VSTJS/blob/master/VSTjs_showcase)
 
 ## Functionality
