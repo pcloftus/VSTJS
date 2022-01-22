@@ -2,9 +2,9 @@
 VST_SDK with embedded V8
 
 
-![alt text](https://developer.steinberg.help/download/thumbnails/9797941/VST_Compatible_Logo_Steinberg_with_TM.png?version=1&modificationDate=1589265818000&api=v2)
+![VST License image](https://developer.steinberg.help/download/thumbnails/9797941/VST_Compatible_Logo_Steinberg_with_TM.png?version=1&modificationDate=1589265818000&api=v2)
 
-(insert gif here)
+![Showcase GIF](https://github.com/pcloftus/VSTJS/blob/master/VSTjs_showcase)
 
 ## Functionality
 - Used the V8 API to compile and run arbitrary Javascript code - taken from the text file "jsinput"  
